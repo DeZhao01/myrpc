@@ -3,3 +3,6 @@ cmake-build-*/
 *.o
 *.exe
 *.out
+myrpc
+client
+[!.]*
